@@ -68,7 +68,11 @@ analyze_all<-function(pattern,new){
 
 
 #How to put the code into github
-
+#login into github account and select new repository
+#use the same name as local repository:to know what is the name of
+#the local repository, it is the file that is the R project, 
+#in this case intro_r.Rproj, check on panel on files
+#select create Readme file
 
 
 
